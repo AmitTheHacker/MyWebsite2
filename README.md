@@ -1,2 +1,2 @@
 # MyWebsite2
-this is simplw education website
+this is simple education website
